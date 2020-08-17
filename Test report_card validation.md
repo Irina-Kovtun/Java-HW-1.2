@@ -16,6 +16,7 @@
 1. Запустить IntelliJ IDEA Community
 2. Загрузить код:
 
+```java
 public class Main {
   public static void main(String[] args) {
     // TODO: подставлять номер карты нужно сюда между двойными кавычками, без пробелов
@@ -53,6 +54,7 @@ public class Main {
     return (result != 0) && (result % 10 == 0);
   }
 }
+```
 
 3. Запустить код на исполнение с разными тестовыми данными в строке 4. 
 
